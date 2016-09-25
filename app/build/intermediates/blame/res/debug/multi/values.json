@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 47,
-                    "endOffset": 98
+                    "endColumn": 39,
+                    "endOffset": 90
                 },
                 "from": {
                     "file": "/home/peace/AndroidStudioProjects/EmPubLite/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 47,
-                        "endOffset": 99
+                        "startOffset": 143,
+                        "endColumn": 39,
+                        "endOffset": 178
                     }
                 }
             },
@@ -25,21 +25,44 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 103,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 231
+                    "startOffset": 95,
+                    "endColumn": 47,
+                    "endOffset": 138
                 },
                 "from": {
-                    "file": "/home/peace/AndroidStudioProjects/EmPubLite/app/src/main/res/values/styles.xml",
+                    "file": "/home/peace/AndroidStudioProjects/EmPubLite/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 38,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "/home/peace/AndroidStudioProjects/EmPubLite/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 182
+                        "startOffset": 104,
+                        "endColumn": 38,
+                        "endOffset": 138
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/peace/AndroidStudioProjects/EmPubLite/app/src/main/res/values/styles.xml"
                 }
             }
         ]
