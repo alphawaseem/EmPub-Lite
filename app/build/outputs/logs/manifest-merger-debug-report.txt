@@ -33,6 +33,22 @@ MERGED from [com.android.support:support-core-ui:24.2.1] /home/peace/AndroidStud
 MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
@@ -55,6 +71,22 @@ application
 ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:11:5-26:19
 MERGED from [com.commonsware.cwac:security:0.5.2] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.commonsware.cwac/security/0.5.2/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-v13:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
