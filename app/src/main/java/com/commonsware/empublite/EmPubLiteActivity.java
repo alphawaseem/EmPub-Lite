@@ -25,22 +25,16 @@ public class EmPubLiteActivity extends Activity {
 
         switch (item.getItemId()) {
             case R.id.help:
-                Intent i = new Intent(this, SimpleContentActivity.class);
+                Intent i = new Intent(this, SimpleContentActivity.class)
+                        .putExtra(SimpleContentActivity.EXTRA_FILE, "file:///android_asset/misc/help.html");
                 startActivity(i);
                 break;
             case R.id.about:
-                i = new Intent(this, SimpleContentActivity.class);
+                i = new Intent(this, SimpleContentActivity.class)
+                        .putExtra(SimpleContentActivity.EXTRA_FILE, "file:///android_asset/misc/about.html");
                 startActivity(i);
                 break;
         }
         return super.onOptionsItemSelected(item);
-    }
-
-    private void help() {
-
-    }
-
-    private void about() {
-
     }
 }
