@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml
@@ -68,7 +68,7 @@ ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:9:30-85
 application
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:11:5-26:19
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:11:5-31:19
 MERGED from [com.commonsware.cwac:security:0.5.2] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.commonsware.cwac/security/0.5.2/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-v13:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
@@ -128,6 +128,10 @@ ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.commonsware.empublite.SimpleContentActivity
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:25:9-68
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:25:9-27:20
 	android:name
 		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:25:19-56
+activity#com.commonsware.empublite.Preferences
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:28:19-46
