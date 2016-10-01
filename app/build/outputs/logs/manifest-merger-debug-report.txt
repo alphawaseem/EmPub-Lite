@@ -55,18 +55,18 @@ MERGED from [com.android.support:support-compat:24.2.1] /home/peace/AndroidStudi
 		ADDED from [com.commonsware.cwac:security:0.5.2] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.commonsware.cwac/security/0.5.2/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
 		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:5:15-41
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:7:5-89
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:7:30-86
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:8:5-83
+		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:8:30-80
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:9:5-88
+		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:9:30-85
+		ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:9:22-77
 application
 ADDED from /home/peace/AndroidStudioProjects/EmPubLite/app/src/main/AndroidManifest.xml:11:5-31:19
 MERGED from [com.commonsware.cwac:security:0.5.2] /home/peace/AndroidStudioProjects/EmPubLite/app/build/intermediates/exploded-aar/com.commonsware.cwac/security/0.5.2/AndroidManifest.xml:11:5-20
