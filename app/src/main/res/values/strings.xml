@@ -13,5 +13,8 @@
 
     <string name="keepscreenon_title">Keep Screen On</string>
 
+    <string name="notes">Notes</string>
+    <string name="delete">Delete</string>
     <string name="settings">Settings</string>
+    <string name="hint">Enter notes here...</string>
 </resources>
