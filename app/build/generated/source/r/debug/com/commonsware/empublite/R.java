@@ -24,14 +24,15 @@ public final class R {
         public static final int ic_action_settings=0x7f020005;
     }
     public static final class id {
-        public static final int about=0x7f0a0006;
-        public static final int delete=0x7f0a0003;
+        public static final int about=0x7f0a0007;
+        public static final int delete=0x7f0a0004;
         public static final int editor=0x7f0a0000;
-        public static final int help=0x7f0a0005;
-        public static final int notes=0x7f0a0004;
+        public static final int help=0x7f0a0006;
+        public static final int notes=0x7f0a0005;
         public static final int pager=0x7f0a0002;
         public static final int progressBar1=0x7f0a0001;
-        public static final int settings=0x7f0a0007;
+        public static final int settings=0x7f0a0008;
+        public static final int share=0x7f0a0003;
     }
     public static final class layout {
         public static final int editor=0x7f040000;
@@ -56,6 +57,7 @@ public final class R {
         public static final int lastposition_title=0x7f080008;
         public static final int notes=0x7f080009;
         public static final int settings=0x7f08000a;
+        public static final int share=0x7f08000b;
     }
     public static final class style {
         /**  Customize your theme here. 
